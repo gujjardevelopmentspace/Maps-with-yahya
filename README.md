@@ -26,7 +26,7 @@ CSS3 – Styling and responsiveness
 
 JavaScript (ES6+) – Map initialization and interactivity
 
-Optional libraries: Leaflet or Google Maps API
+libraries: Leaflet or Google Maps API
 
 Project Structure
 
